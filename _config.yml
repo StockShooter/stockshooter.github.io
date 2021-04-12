@@ -40,11 +40,11 @@ features                                  :
     
   - title                                 : 三大法人
     description                           : 圖表連動三大法人數據
-    fontawesome_icon_name                 : #mobile
+    fontawesome_icon_name                 : mobile
 
   - title                                 : 籌碼力道
     description                           : 每日top15買賣力道強弱
-    fontawesome_icon_name                 : #play-circle
+    fontawesome_icon_name                 : play-circle
 
   - title                                 : #Automatic Icon and Metadata
     description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
