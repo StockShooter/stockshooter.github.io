@@ -46,33 +46,33 @@ features                                  :
     description                           : 每日top15買賣力道強弱
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : #Automatic Icon and Metadata
-    description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : #sync
+  - title                                 : 八大官股
+    description                           : 政府基金買賣力道
+    fontawesome_icon_name                 : sync
 
-  - title                                 : #Easy to Tweak
-    description                           : #Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #adjust
+  - title                                 : 融資、融券
+    description                           : 散戶多空力道
+    fontawesome_icon_name                 : adjust
   
-  - title                                 : #Feature List
-    description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #star
+  - title                                 : 法人借券
+    description                           : 法人看空力道
+    fontawesome_icon_name                 : star
 
-  - title                                 : #Smart App Banner
-    description                           : #Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : #arrow-alt-circle-down
+  - title                                 : 券商連續
+    description                           : 連續買賣券商
+    fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : #Social Links
-    description                           : #Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #link
+  - title                                 : 券商分點
+    description                           : 詳細券商歷史進出資訊
+    fontawesome_icon_name                 : link
 
-  - title                                 : #FontAwesome Support
-    description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #info-circle
+  - title                                 : 大盤籌碼 (三大法人、融資券、期權)
+    description                           : 每日大盤籌碼
+    fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : 選股模組
+    description                           : 三大法人買賣超排行榜
+    fontawesome_icon_name                 : Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
