@@ -36,43 +36,43 @@ features                                  :
 
   - title                                 : 籌碼日報
     description                           : 詳細券商分點統計
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : #magic
     
   - title                                 : 三大法人
     description                           : 圖表連動三大法人數據
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : #mobile
 
   - title                                 : 籌碼力道
     description                           : 每日top15買賣力道強弱
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : #play-circle
 
   - title                                 : 八大官股
     description                           : 政府基金買賣力道
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : #sync
 
   - title                                 : 融資、融券
     description                           : 散戶多空力道
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : #adjust
   
   - title                                 : 法人借券
     description                           : 法人看空力道
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : #star
 
   - title                                 : 券商連續
     description                           : 連續買賣券商
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : #arrow-alt-circle-down
 
   - title                                 : 券商分點
     description                           : 詳細券商歷史進出資訊
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : #link
 
   - title                                 : 大盤籌碼 (三大法人、融資券、期權)
     description                           : 每日大盤籌碼
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : #info-circle
 
   - title                                 : 選股模組
     description                           : 三大法人買賣超排行榜
-    fontawesome_icon_name                 : Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : #Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
